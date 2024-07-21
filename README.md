@@ -15,8 +15,9 @@ RUN TYPE
 ------------
 
 THANKS TO
-- 
+- jembot
 
 -------------
-NOTE 
+NOTE
+
 jangan di perjual beli kan
