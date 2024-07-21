@@ -18,6 +18,5 @@ THANKS TO
 - jembot
 
 -------------
-NOTE
-
 jangan di perjual beli kan
+
