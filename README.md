@@ -8,6 +8,7 @@
 -----------
 DESCRIPTION
 - sc bot ini di rancang untuk bermain ff
+- jangan di perjual beli kan ya jing 
 
 ------------
 RUN TYPE 
@@ -19,5 +20,5 @@ THANKS TO
 
 -------------
 
-jangan di perjual beli kan
+
 
