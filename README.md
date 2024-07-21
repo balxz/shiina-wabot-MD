@@ -6,23 +6,17 @@
 <h1 align="center">Shiina Case X Plugins</h1>
 
 -----------
-- DESCRIPTION
+DESCRIPTION
 - sc bot ini di rancang untuk bermain ff
-------------
 
 ------------
-- RUN TYPE 
+RUN TYPE 
 - pairing
 ------------
 
-- THANKS TO
-- Adiwajshing
-- Whiskeysockets
-- Bochilgaming
-- VanzDev
-- Xinz
-- Xira
+THANKS TO
+- 
 
 -------------
-## Note 
+NOTE 
 jangan di perjual beli kan
